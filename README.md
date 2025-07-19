@@ -1,6 +1,6 @@
 # SONAR Compromised Area Detection Simulation!
 
-[SONAR Simulation Screenshot](screenshot.png) <!-- Add your screenshot here -->
+[SONAR Simulation Screenshot](sonar.png)
 
 A Pygame simulation demonstrating SONAR technology for detecting compromised areas (mines) on the seabed. The program visualizes how SONAR pings can identify dangerous objects underwater.
 
