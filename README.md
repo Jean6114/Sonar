@@ -28,6 +28,8 @@ A Pygame simulation demonstrating SONAR technology for detecting compromised are
 - Pygame
 - NumPy
 
-## Installation1. 
+## Installation
+
 Clone the repository: 
-```bash   git clone  https://github.com/yourusername/sonar-simulation.git
+```bash
+git clone https://github.com/yourusername/sonar-simulation.git
