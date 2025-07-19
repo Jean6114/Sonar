@@ -32,4 +32,4 @@ A Pygame simulation demonstrating SONAR technology for detecting compromised are
 
 Clone the repository: 
 ```bash
-git clone https://github.com/yourusername/sonar-simulation.git
+git clone https://github.com/Jean6114/Sonar.git
